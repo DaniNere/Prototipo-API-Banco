@@ -37,12 +37,19 @@ Acesse a API em http://localhost:3000.
 
 ## 🔴 Endpoints
 GET /contas - Lista todas as contas existentes.
+
 POST /contas - Cria uma nova conta bancária.
+
 POST /transacoes/depositar - Realiza um depósito em uma conta bancária.
+
 POST /transacoes/sacar - Realiza um saque de uma conta bancária.
+
 POST /transacoes/transferir - Realiza uma transferência entre contas bancárias.
+
 GET /contas/:numeroConta/saldo - Retorna o saldo de uma conta.
+
 PUT /contas/:numeroConta - Atualiza os dados de uma conta.
+
 DELETE /contas/:numeroConta - Exclui uma conta.
 
 ## 🔴 Observações
