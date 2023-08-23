@@ -31,7 +31,7 @@ Este projeto consiste em uma aplicação de sistema bancário simples, onde é p
 Node.js e NPM instalados
 
 ## 🔴 Como Executar
-Clone este repositório: git clone https://github.com/seu-usuario/projeto-sistema-bancario.git
+Clone este repositório: git clone https://github.com/DaniNere/Prototipo-API-Banco.git
 
 Acesse a API em http://localhost:3000.
 
