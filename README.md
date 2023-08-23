@@ -1,6 +1,6 @@
 # Projeto de Sistema Bancário Simples
 
-###Este projeto consiste em uma aplicação de sistema bancário simples, onde é possível criar contas, fazer depósitos, saques, transferências, verificar saldo e excluir contas. O sistema foi desenvolvido em JavaScript utilizando o Node.js e Express.js.
+Este projeto consiste em uma aplicação de sistema bancário simples, onde é possível criar contas, fazer depósitos, saques, transferências, verificar saldo e excluir contas. O sistema foi desenvolvido em JavaScript utilizando o Node.js e Express.js.
 
 ## Funcionalidades
 Criar Conta: Permite a criação de uma nova conta bancária com informações básicas do cliente.
